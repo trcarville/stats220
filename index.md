@@ -1,5 +1,9 @@
 # Hello online world!
 
+Welcome to my first github repository. 
+
+## My Meme
+
 Here is my r code for my meme!
 
 ```r
@@ -27,7 +31,11 @@ meme_vector <- c(top_row, bottom_row)
 meme <- image_append(meme_vector, stack = TRUE)
 
 ```
+And here is my meme!
 
 ```r
 ![](my_meme.png)
 ```
+### My inspiration
+
+I was finding it very hard to get inspired for my meme. I was staring at my computer trying to think of an idea, when all that was going through my mind was how much I wanted to have a break and go get food... and there was my inspiration.
