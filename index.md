@@ -6,7 +6,7 @@ Welcome to my first github repository.
 
 Here is a meme I made!
 
-```
+```r
 ![](my_meme.png)
 ```
 It was made using the magick package on R Studios.
