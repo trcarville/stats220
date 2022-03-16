@@ -15,7 +15,7 @@ It was made using the magick package on R Studios.
 
 I was finding it very hard to get inspired for my meme. I was staring at my computer trying to think of an idea, when all that was going through my mind was how much I wanted to have a break and go get food... and there was my inspiration.
 
-Here is my r code for my meme!
+Here is my `R` code for my meme!
 
 ```r
 url1 <- "https://media.istockphoto.com/photos/dog-working-comfortably-from-home-picture-id170462856?b=1&k=20&m=170462856&s=170667a&w=0&h=q4T88TpwMaYJEtvWxW9LthcgWP925UrL4C4D2DlURTI="
