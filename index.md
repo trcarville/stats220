@@ -6,7 +6,7 @@ Welcome to my first github repository. 👋🏻
 
 #### Introduction
 
-I am a second year statistics 📊 and psychology 🧠 student at the University of Auckland, and I am using github to help me with my assignments.
+I am a second year statistics 📊 and psychology 🧠 student at the [University of Auckland](https://www.auckland.ac.nz/en.html), and I am using github to help me with my assignments.
 
 ## My Meme
 
