@@ -1,6 +1,12 @@
 # Hello online world!
 
-Welcome to my first github repository. 
+Welcome to my first github repository. 👋🏻
+
+![](https://us.123rf.com/450wm/maxborovkov/maxborovkov1809/maxborovkov180900067/110330061-autumn-welcome-sign-with-colorful-maple-leaves-vector-background-.jpg?ver=6)
+
+#### Introduction
+
+I am a second year statistics 📊 and psychology 🧠 student at the University of Auckland, and I am using github to help me with my assignments.
 
 ## My Meme
 
@@ -8,11 +14,16 @@ Here is a meme I made!
 
 ![](my_meme.png)
 
-It was made using the magick package on R Studios.
+*It was made using the magick package on R Studios*.
 
 ### My inspiration
 
-I was finding it very hard to get inspired for my meme. I was staring at my computer trying to think of an idea, when all that was going through my mind was how much I wanted to have a break and go get food... and there was my inspiration.
+I was finding it very hard to get inspired for my meme. I was staring at my computer trying to think of an idea, when all that was going through my mind was how much I wanted to have a break and go get food... and **there was my inspiration**.
+
+This was a perfect meme for me because I love:
+- dogs 🐶
+- food 🍕
+- not studying
 
 Here is my `R` code for my meme!
 
