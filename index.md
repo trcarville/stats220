@@ -42,3 +42,5 @@ meme_vector <- c(top_row, bottom_row)
 meme <- image_append(meme_vector, stack = TRUE)
 
 ```
+
+I hope you can enjoy (and probably relate to) my meme! 🤗
