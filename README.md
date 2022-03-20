@@ -10,6 +10,6 @@ Welcome to my first github repository. 👋🏻
 
 I am a second year statistics 📊 and psychology 🧠 student at the [University of Auckland](https://www.auckland.ac.nz/en.html) 🇳🇿, and I am using github to help me with my assignments.
 
-https://trcarville.github.io/stats220/
+Here is a link to my website for my stats220 repository:
 
-![](my_meme.png)
+https://trcarville.github.io/stats220/
