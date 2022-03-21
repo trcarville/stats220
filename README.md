@@ -8,7 +8,11 @@ Welcome to my first github repository. 👋🏻
 
 #### Introduction
 
-I am a second year statistics 📊 and psychology 🧠 student at the [University of Auckland](https://www.auckland.ac.nz/en.html) 🇳🇿, and I am using github to help me with my assignments.
+I am a second year student studying
+1. statistics 📊 
+2. psychology 🧠 
+
+At the [University of Auckland](https://www.auckland.ac.nz/en.html) 🇳🇿, and I am using github to help me with my assignments.
 
 Here is a link to my website for my stats220 repository:
 
